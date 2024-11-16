@@ -3,6 +3,17 @@
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://imgchest.com/p/qe4g2d2no7j",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1731753080",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
